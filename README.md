@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen Enes Bayar</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate deep learning developer/data scientist from Turkey</h3>
 
 - 🔭 I’m currently working on **Visea Innovative**
 
