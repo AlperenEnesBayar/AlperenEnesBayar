@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alperen Enes Bayar</h1>
 <h3 align="center">A passionate deep learning developer/data scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Visea Innovative**
+- 🔭 I’m currently working on **Huawei**
 
 - 🌱 I’m currently learning **Tensorflow/Pytorch**
 
 - 👯 I’m looking to collaborate on **an gamejam!**
 
 - 🤝 I’m looking for help with **Lollipop App (a social network app)**
-
-- 📝 I regularly write articles on [https://iamboredandgeek.com/](https://iamboredandgeek.com/)
 
 - 💬 Ask me about **computer vision**
 
