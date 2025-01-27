@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alperen Enes Bayar</h1>
 <h3 align="center">A passionate deep learning developer/data scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Huawei**
+- 🔭 I’m currently working on **Havelsan**
 
 - 🌱 I’m currently learning **Tensorflow/Pytorch**
 
